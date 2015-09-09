@@ -27,4 +27,4 @@ Has only been tested on osx 10.10 with OF 0.9.0
 ## Images
 Screen shot:
 
-![](https://raw.githubusercontent.com/antimodular/ofxFaceRecognizer/master/Screen_Shot.png)
+![](https://raw.githubusercontent.com/antimodular/ofxCv_stitch/master/stitched.png)
