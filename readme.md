@@ -15,7 +15,8 @@ ofxOpenCV
 
 ofxCv
 https://github.com/kylemcdonald/ofxCv
-For this addon to work with OF0.9.0 i had to make some edits.
+
+In order for this addon to work with OF0.9.0 we had to make some edits.
 The modified addon is included here.
 
 
