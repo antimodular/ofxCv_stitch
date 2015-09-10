@@ -13,6 +13,7 @@ of_v0.8.4
 
 ofxOpenCV2461
 <https://github.com/pkmital/ofxOpenCV2461>
+
 ofxCv
 <https://github.com/kylemcdonald/ofxCv>
 
