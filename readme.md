@@ -1,7 +1,7 @@
 #Panorama stitching via openCv
 
 ## Introduction
-In this example we grab the video-feed of 2 usb webcams (Logitech c920) and stitch them together via openCV's stitcher library.
+In this example we grab the video-feed of 2 usb webcams (Logitech c920) and stitch them together via openCV's (version 2) stitcher library.
 
 We based our code of these great examples:
 <http://docs.opencv.org/modules/stitching/doc/high_level.html>
@@ -9,7 +9,7 @@ We based our code of these great examples:
 
 
 # Dependencies
-of_v0.9.0RC1_osx_release
+of_v0.9.0RC1_osx_release 
 
 ofxOpenCV
 
