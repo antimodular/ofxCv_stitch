@@ -24,4 +24,4 @@ Has only been tested on osx 10.10 with OF 0.8.4
 ## Images
 Screen shot:
 
-![](https://raw.githubusercontent.com/antimodular/ofxCv_stitch/master/stitched.png)
+![](https://github.com/antimodular/ofxCv_stitch/blob/master/using%20loaded%20images/stitched_photos.png)
